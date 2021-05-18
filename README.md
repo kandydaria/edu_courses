@@ -1,5 +1,5 @@
 # edu_courses
-Analysis of data for educational courses 
+[https://img2.freepng.ru/20180516/ohq/kisspng-used-book-computer-icons-5afc9d4ed92065.8296718615265047828894.jpg] Analysis of data for educational courses 
 
 [Анализ данных о прохождении студентами образовательных онлайн-курсов для продюсеров образовательных программ](https://nbviewer.jupyter.org/github/kandydaria/edu_courses/blob/main/Coursework_analytics_1_for%20github.ipynb)                 
 Описательный блок с расчетом показателей для каждого курса, расчет потенциальной нагрузки на преподавателей для оценки необходимости расширения штата сотрудников, анализ качества контента курсов, где необходимо выявить проблемные для студентов модули, требующие доработки,  и выявление сезонности.
